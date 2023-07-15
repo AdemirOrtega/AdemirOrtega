@@ -7,4 +7,4 @@
 💬 Estoy interesado en el área de finanzas y microeconomía
 
 
-
+[![AdemirOrtega GitHub stats](https://github-readme-stats.vercel.app/api?username=AdemirOrtega)](https://github.com/AdemirOrtega/github-readme-stats)
